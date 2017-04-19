@@ -110,7 +110,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "collapsed": true,
             "hideButtons": true
@@ -118,10 +118,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/rrr-raiserestaurantrevenue-small-281x128.png",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "alt": "Raise Restuarant Revenue",
+              "link": "index.html",
+              "title": "Raise Restuarant Revenue",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
