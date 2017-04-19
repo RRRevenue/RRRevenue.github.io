@@ -590,22 +590,6 @@ a:hover {
 #header4-0 .heading-text {
   font-size: 14px;
 }
-#features4-7 .card {
-  background-color: transparent;
-  box-shadow: none;
-  border: none;
-}
-#features4-7 .card-img a {
-  border-width: 2px;
-  line-height: 72px;
-}
-#features4-7 .mbr-iconfont {
-  color: #616161;
-  border-color: #616161;
-}
-#features4-7 .heading-text B {
-  font-size: 18px;
-}
 #header5-4 .mbr-section-title,
 #header5-4 .mbr-section-subtitle {
   margin-bottom: 1rem;
@@ -636,6 +620,32 @@ a:hover {
 #features2-6 .mbr-iconfont {
   color: #455c97;
   border-color: #455c97;
+}
+#features4-7 .card {
+  background-color: transparent;
+  box-shadow: none;
+  border: none;
+}
+#features4-7 .card-img a {
+  border-width: 2px;
+  line-height: 72px;
+}
+#features4-7 .mbr-iconfont {
+  color: #616161;
+  border-color: #616161;
+}
+#features4-7 .heading-text B {
+  font-size: 18px;
+  color: #fffffd;
+}
+#features4-7 .heading-title {
+  color: #fffffd;
+}
+#features4-7 .card-title {
+  color: #fffffd;
+}
+#features4-7 .card-text {
+  color: #fffffd;
 }
 #form3-8 .card {
   background-color: transparent;
