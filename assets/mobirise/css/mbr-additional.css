@@ -1,5 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i);
+
 
 
 
@@ -576,6 +578,13 @@ a:hover {
 #menu2-3 .link[aria-expanded="true"],
 #menu2-3 .dropdown-item[aria-expanded="true"] {
   color: #455c97!important;
+}
+#header8-d H3 {
+  color: #2d2d2d;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#header8-d P {
+  color: #000000;
 }
 #header5-4 .mbr-section-title,
 #header5-4 .mbr-section-subtitle {
