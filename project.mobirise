@@ -100,7 +100,7 @@
           "_params": {
             "bgColor": "#fff",
             "fontSize": 0.8125,
-            "imageSize": 4,
+            "imageSize": "5",
             "fontName": {
               "name": "Libre Franklin",
               "css": "'Libre Franklin', serif",
