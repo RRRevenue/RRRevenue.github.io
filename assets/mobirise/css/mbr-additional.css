@@ -586,6 +586,18 @@ a:hover {
 #header8-d P {
   color: #000000;
 }
+#content5-f .mbr-section-title,
+#content5-f .mbr-section-subtitle {
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+#content5-f .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#content5-f .mbr-table-cell {
+  vertical-align: middle;
+}
 #header5-4 .mbr-section-title,
 #header5-4 .mbr-section-subtitle {
   margin-bottom: 1rem;
