@@ -516,15 +516,15 @@ a:hover {
   display: none !important;
 }
 #menu2-3 .navbar-toggler {
-  color: #74a3c7;
+  color: #000000;
 }
 #menu2-3 .close-icon::before,
 #menu2-3 .close-icon::after {
-  background-color: #74a3c7;
+  background-color: #000000;
 }
 #menu2-3 .link,
 #menu2-3 .dropdown-item {
-  color: #74a3c7;
+  color: #000000;
   font-family: 'Libre Franklin', serif;
 }
 #menu2-3 .link {
@@ -544,7 +544,7 @@ a:hover {
 }
 #menu2-3 .dropdown-item:hover,
 #menu2-3 .dropdown-item:focus {
-  color: #74a3c7;
+  color: #000000;
 }
 #menu2-3 .link[aria-expanded="true"],
 #menu2-3 .dropdown-menu {
@@ -563,7 +563,7 @@ a:hover {
   background: #fff;
 }
 #menu2-3 .bg-color.transparent .link {
-  color: #74a3c7;
+  color: #000000;
   transition: none;
 }
 #menu2-3 .bg-color.transparent.opened .link {
@@ -576,19 +576,6 @@ a:hover {
 #menu2-3 .link[aria-expanded="true"],
 #menu2-3 .dropdown-item[aria-expanded="true"] {
   color: #455c97!important;
-}
-#header4-0 .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
-}
-#header4-0 .mbr-table-cell {
-  vertical-align: middle;
-}
-#header4-0 .heading-title {
-  font-size: 60px;
-}
-#header4-0 .heading-text {
-  font-size: 14px;
 }
 #header5-4 .mbr-section-title,
 #header5-4 .mbr-section-subtitle {
@@ -635,7 +622,7 @@ a:hover {
   border-color: #616161;
 }
 #features4-7 .heading-text B {
-  font-size: 18px;
+  font-size: 20px;
   color: #fffffd;
 }
 #features4-7 .heading-title {

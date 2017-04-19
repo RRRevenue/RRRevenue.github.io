@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 13,
+    "uniqCompNum": 14,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -41,13 +41,13 @@
               "display": "none !important"
             },
             ".navbar-toggler": {
-              "color": "#74a3c7"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#74a3c7"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#74a3c7",
+              "color": "#000000",
               "font-family": "'Libre Franklin', serif"
             },
             ".link": {
@@ -63,7 +63,7 @@
               "background": "@primaryColor"
             },
             ".dropdown-item:hover, .dropdown-item:focus": {
-              "color": "#74a3c7"
+              "color": "#000000"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
               "background": "#ffffff"
@@ -75,7 +75,7 @@
               "background": "#fff"
             },
             ".bg-color.transparent .link": {
-              "color": "#74a3c7",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -103,7 +103,7 @@
               "css": "'Libre Franklin', serif",
               "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
             },
-            "fontColor": "#74a3c7",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -127,48 +127,67 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-7\" aria-expanded=\"false\">WHO ARE WE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-4\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-6\" aria-expanded=\"false\">HOW WE CAN HELP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form3-8\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-4\" aria-expanded=\"false\">WHO ARE WE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-5\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-6\" aria-expanded=\"false\">HOW WE CAN HELP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form3-8\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
         },
         {
+          "form": {
+            "action": "nickfsanchez@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email"
+              }
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header4",
-          "_anchor": "header4-0",
+          "_name": "header8",
+          "_anchor": "header8-d",
           "_params": {
+            "imageSize": "61",
+            "containerColor1": "#fffffd",
+            "containerColor2": "#8693b6",
             "parallax": false,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1147.jpg",
-            "bgColor": "#bdb39a",
-            "bgColorRadio": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
+            "bgColorRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.2,
-            "overlayColor": "#264a54",
-            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showImage": true,
             "showTitle": true,
-            "showText": false,
-            "showButtons": false
+            "showText": true,
+            "showButton": false,
+            "showArrow": false
           },
-          "title": "<b>Raise Restaurant Revenue</b>",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-md btn-white\" href=\"https://mobirise.com\">Download for Mac</a>",
-          "_styles": {
-            ".mbr-iconfont": {},
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/rrr-raiserestaurantrevenue-main-1400x859.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
-            ".heading-title": {
-              "font-size": "60px"
-            },
-            ".heading-text": {
-              "font-size": "14px"
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
             }
-          }
+          },
+          "title": "Mission Statement",
+          "text": "Need a Mission Statement here. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Learn more</a>"
         },
         {
           "_styles": {
@@ -412,7 +431,7 @@
               "border-color": "#616161"
             },
             ".heading-text B": {
-              "font-size": "18px",
+              "font-size": "20px",
               "color": "#fffffd"
             },
             ".heading-title": {
@@ -462,7 +481,7 @@
             "showFeaturesButtons": false
           },
           "title": "How Does RRR Raise Revenue",
-          "text": "<b><br>Two Words: MORE SALES</b>",
+          "text": "<b><br>Two Words: <br>MORE SALES</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
           "media1": {
             "iconFont": {
