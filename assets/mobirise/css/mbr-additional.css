@@ -849,6 +849,9 @@ a:hover {
 #content3-1b .mbr-section-subtitle {
   text-align: center;
 }
+#content3-1b B {
+  font-size: 30px;
+}
 #features16-1a .mbr-iconfont {
   background: #424242;
   border-color: #424242;
@@ -860,9 +863,15 @@ a:hover {
 #content3-1c .mbr-section-subtitle {
   text-align: center;
 }
+#content3-1c B {
+  font-size: 30px;
+}
 #content3-1h .mbr-section-title,
 #content3-1h .mbr-section-subtitle {
   text-align: center;
+}
+#content3-1h B {
+  font-size: 30px;
 }
 #content2-1i H1 {
   color: #000000;
@@ -886,6 +895,9 @@ a:hover {
 #content3-1n .mbr-section-subtitle {
   text-align: center;
 }
+#content3-1n B {
+  font-size: 30px;
+}
 #footer4-15 p {
   color: #000;
 }
@@ -901,10 +913,11 @@ a:hover {
 }
 #content3-18 B {
   color: #fffffd;
+  font-size: 30px;
 }
 #content3-18 P {
   color: #fffffd;
-  font-size: 20px;
+  font-size: 14px;
 }
 #counters1-17 .count {
   color: #fffffd;

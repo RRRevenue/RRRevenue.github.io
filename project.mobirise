@@ -1139,6 +1139,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "B": {
+              "font-size": "30px"
             }
           },
           "_tags": [
@@ -1265,6 +1268,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "B": {
+              "font-size": "30px"
             }
           },
           "_tags": [
@@ -1276,10 +1282,10 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgColor": "#bdb39a",
-            "showMeta": true
+            "showMeta": false
           },
           "title": "<b>Initial Observations</b>",
-          "meta": "By <b>Flor Campos</b>"
+          "meta": ""
         },
         {
           "_tags": [
@@ -1298,6 +1304,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "B": {
+              "font-size": "30px"
             }
           },
           "_tags": [
@@ -1309,7 +1318,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgColor": "#bdb39a",
-            "showMeta": true
+            "showMeta": false
           },
           "title": "<b>Social Media Platform Observations</b>",
           "meta": "By <b>Flor Campos</b>"
@@ -1396,6 +1405,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "B": {
+              "font-size": "30px"
             }
           },
           "_tags": [
@@ -1462,11 +1474,12 @@
               "color": "#fffffd"
             },
             "B": {
-              "color": "#fffffd"
+              "color": "#fffffd",
+              "font-size": "30px"
             },
             "P": {
               "color": "#fffffd",
-              "font-size": "20px"
+              "font-size": "14px"
             }
           },
           "_tags": [
