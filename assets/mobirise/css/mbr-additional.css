@@ -600,7 +600,10 @@ a:hover {
   vertical-align: middle;
 }
 #header5-4 .heading-text {
-  font-size: 30px;
+  font-size: 17px;
+}
+#header5-4 .heading-title B {
+  font-size: 48px;
 }
 #header5-5 .mbr-section-title,
 #header5-5 .mbr-section-subtitle {
@@ -615,14 +618,17 @@ a:hover {
   vertical-align: middle;
 }
 #header5-5 .heading-text {
-  font-size: 30px;
+  font-size: 18px;
 }
-#features2-6 .mbr-iconfont {
-  color: #455c97;
-  border-color: #455c97;
+#header5-5 .heading-title {
+  font-size: 48px;
 }
-#features2-6 .card-text {
-  font-size: 20px;
+#features21-v .card .mbr-iconfont {
+  background: #2b4484;
+  border-color: #2b4484;
+}
+#features21-v .mbr-table-cell {
+  vertical-align: middle;
 }
 #subscribe1-l .form-control-label {
   color: undefined;

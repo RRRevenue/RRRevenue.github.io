@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 24,
+    "uniqCompNum": 32,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/rrr-raiserestaurantrevenue-iconl-128x122.png",
     "noImageResize": "",
@@ -215,7 +215,10 @@
               "vertical-align": "middle"
             },
             ".heading-text": {
-              "font-size": "30px"
+              "font-size": "17px"
+            },
+            ".heading-title B": {
+              "font-size": "48px"
             }
           },
           "_tags": [
@@ -257,7 +260,10 @@
               "vertical-align": "middle"
             },
             ".heading-text": {
-              "font-size": "30px"
+              "font-size": "18px"
+            },
+            ".heading-title": {
+              "font-size": "48px"
             }
           },
           "_tags": [
@@ -270,88 +276,88 @@
             "containerColor2": "#24a383",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1609.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1424.jpg",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.7",
             "overlayColor": "#000000",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": false
           },
-          "title": "What We Do",
+          "title": "<b>What We Do</b>",
           "text": "Social Media Management, Unique branding, Facebook Ads, email marketing, digital marketing, inbound.<br><br>Sales is the lifeblood of a business. These services ensure that you are getting sales to keep your business up and running. It is vital to have in place a marketing strategy that you can count on to bring you measurable results every month. Many businesses are started or operated without a documented marketing plan or strategy for getting new and repeat customers each month for their restaurant. With competition constantly increasing, it is imperative that your restaurant has a marketing strategy in place to ensure it will dominate in its space and continue to grow and prosper.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>"
         },
         {
+          "bgicon": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "website-theme",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
           "subtitle1": "Awesome",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "subtitle2": "Awesome",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "subtitle3": "Awesome",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "subtitle4": "Awesome",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "features2",
-          "_styles": {
-            ".mbr-iconfont": {
-              "color": "@primaryColor",
-              "border-color": "@primaryColor"
-            },
-            ".card-text": {
-              "font-size": "20px"
-            }
-          },
-          "_anchor": "features2-6",
+          "_name": "features21",
+          "_anchor": "features21-v",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": 1,
             "paddingBottom": 1,
-            "contentAlign": "center",
-            "iconsBgColor": "@primaryColor",
+            "iconsBgColor": "#2b4484",
+            "containerColor1": "#f0f1f2",
+            "containerColor2": "#fffefd",
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
-            "bgColor": "#fffffd",
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.95,
-            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.8,
+            "overlayColor": "#616161",
             "showHeading": true,
+            "contentAlign": "center",
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
-            "columns": "4",
-            "showFeaturesImages": true,
-            "showFeaturesTitles": true,
-            "showFeaturesTexts": true,
-            "showFeaturesButtons": false
+            "bgicon": true,
+            "columns": "4"
           },
-          "title": "How Can We Help",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "title": "<b>How Can We Help?</b>",
+          "text": "We realize most businesses rarely have big budgets or large teams working solely on optimizing their social media outlets. Measuring, experimenting and fine tuning all their social media can become a daunting task. We take the following components to help with increasing your sales and increase customer footraffic. ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-lg btn-empty\" href=\"https://mobirise.com\">Or view demo</a>",
           "media1": {
             "iconFont": {
               "class": "mbr-iconfont",
               "linkInNewWindow": false,
-              "name": "speed",
+              "name": "mobirise",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "index.html",
-              "size": 40,
-              "newWindow": false
+              "link": "https://mobirise.com",
+              "color": "#efefef"
             }
           },
-          "title1": "",
-          "text1": "Create an effective, customized digital marketing plan or strategy<br><br><br>",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "title1": "Effective Marketing Plan",
+          "text1": "Create an effective, customized digital marketing plan and strategy relating to your specific business.&nbsp;",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont",
@@ -359,44 +365,47 @@
               "name": "responsive",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "index.html",
-              "size": 40,
-              "newWindow": false
+              "link": "https://mobirise.com",
+              "color": "#cccccc"
             }
           },
-          "title2": "",
-          "text2": "Increase social media engagement<br><br><br><br><br>",
-          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "title2": "Increasing Social Media Engagement",
+          "text2": "Reach your customers more effectively while providing quality content to keep your customers engaged.&nbsp;",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont",
               "linkInNewWindow": false,
-              "name": "edit",
+              "name": "devices",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "index.html",
-              "size": 40,
-              "newWindow": false
+              "link": "https://mobirise.com",
+              "color": "#cccccc"
             }
           },
-          "title3": "",
-          "text3": "Create a unique selling point<br><br><br><br><br>",
-          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "title3": "Create Unique Selling Points",
+          "text3": "We can help in identifying the unique services your business provides and are valuable to your customers.&nbsp;",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont",
               "linkInNewWindow": false,
-              "name": "users",
+              "name": "touch-swipe",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "index.html",
-              "size": 40,
-              "newWindow": false
+              "link": "https://mobirise.com",
+              "color": "#cccccc"
             }
           },
-          "title4": "",
-          "text4": "Put in place a proven reliable strategy for attracting more customers every month",
-          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+          "title4": "Atract New Customers",
+          "text4": "Let us take the steps necessary to increase your businesses's revenue through inbound marketing. We invest the time, hard work and dedication to increase lead growth to attract new customers.&nbsp;",
+          "_styles": {
+            ".card .mbr-iconfont": {
+              "background": "#2b4484",
+              "border-color": "#2b4484"
+            },
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            }
+          }
         },
         {
           "subtitle": "Get notified about new amazing products",
