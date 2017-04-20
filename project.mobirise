@@ -151,6 +151,16 @@
             "Theme"
           ],
           "_name": "header8",
+          "_styles": {
+            "H3": {
+              "color": "#2d2d2d",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "header8-d",
           "_params": {
             "imageSize": "43",
@@ -192,17 +202,7 @@
           },
           "title": "<br>",
           "text": "Need a Mission Statement here. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Learn more</a>",
-          "_styles": {
-            "H3": {
-              "color": "#2d2d2d",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
-            },
-            "P": {
-              "color": "#000000"
-            }
-          }
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Learn more</a>"
         },
         {
           "_styles": {
@@ -249,6 +249,9 @@
             "Theme"
           ],
           "_name": "subscribe1",
+          "_styles": {
+            ".form-control-label": {}
+          },
           "_anchor": "subscribe1-c",
           "_params": {
             "paddingTop": 3,
@@ -278,10 +281,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">Send</a>",
-          "_styles": {
-            ".form-control-label": {}
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">Send</a>"
         },
         {
           "_styles": {
@@ -331,6 +331,12 @@
             "Theme"
           ],
           "_name": "features2",
+          "_styles": {
+            ".mbr-iconfont": {
+              "color": "@primaryColor",
+              "border-color": "@primaryColor"
+            }
+          },
           "_anchor": "features2-6",
           "_params": {
             "paddingTop": "2",
@@ -421,13 +427,7 @@
           },
           "title4": "",
           "text4": "Put in place a proven reliable strategy for attracting more customers every month",
-          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "_styles": {
-            ".mbr-iconfont": {
-              "color": "@primaryColor",
-              "border-color": "@primaryColor"
-            }
-          }
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
         },
         {
           "header": "For business",
@@ -501,6 +501,20 @@
             "Theme"
           ],
           "_name": "features19",
+          "_styles": {
+            ".mbr-iconfont": {
+              "background": "@primaryColor",
+              "border-color": "@primaryColor"
+            },
+            ".heading-title B": {
+              "text-align": "right",
+              "color": "#fffffd"
+            },
+            ".heading-text": {
+              "color": "#fffffd",
+              "font-size": "18px"
+            }
+          },
           "_anchor": "features19-k",
           "_params": {
             "paddingTop": 1,
@@ -521,44 +535,34 @@
             "showHeading": true,
             "contentAlign": "center",
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
             "columns": 2,
             "showFeaturesTitles": true,
             "showFeaturesTexts": true,
             "showFeaturesButtons": false
           },
-          "title": "<b>Features</b>",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "title": "<b>How Do We Raise Revenue</b>",
+          "text": "Two Words: MORE SALES",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
-          "title1": "Responsive",
-          "text1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam voluptatum non dolor reprehenderit aliquid excepturi, veritatis magnam iste sunt culpa provident suscipit ea. Deleniti, animi?",
+          "title1": "Targeted Industry",
+          "text1": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "title2": "Web-fonts",
-          "text2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste sit quaerat rem vitae odio error consequatur, cum voluptatem eum explicabo vero, impedit quo, quae veniam.",
+          "title2": "Never Feel Uncertain",
+          "text2": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
           "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "title3": "Unlimited Sites",
-          "text3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum reprehenderit omnis quis quaerat mollitia consequuntur fugiat nemo fuga, culpa, consequatur perferendis ipsam, aut, quam cum.",
+          "title3": "",
+          "text3": "",
           "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "title4": "Trendy Website Blocks",
-          "text4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio quaerat corporis similique esse eius velit, officia consequuntur sequi voluptatum perspiciatis. Officiis quae beatae praesentium iure?",
+          "text4": "",
           "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "title5": "Host Anywhere",
           "text5": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo error voluptatibus possimus nobis quos minima pariatur aperiam, sunt commodi incidunt nam iusto ipsa distinctio ipsam!",
           "button5": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "title6": "Bootstrap 4",
           "text6": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut officia reiciendis id enim hic harum voluptatem repellat incidunt soluta cum quia facere sed, ea illo.",
-          "button6": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "_styles": {
-            ".mbr-iconfont": {
-              "background": "@primaryColor",
-              "border-color": "@primaryColor"
-            },
-            ".heading-title B": {
-              "text-align": "right",
-              "color": "#fffffd"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
         },
         {
           "_inherit": "features2",
