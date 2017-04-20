@@ -332,7 +332,7 @@
             "iconFont": {
               "class": "mbr-iconfont",
               "linkInNewWindow": false,
-              "name": "touch",
+              "name": "speed",
               "family": "MobiriseIcons",
               "active": true,
               "link": "index.html",
@@ -362,7 +362,7 @@
             "iconFont": {
               "class": "mbr-iconfont",
               "linkInNewWindow": false,
-              "name": "setting",
+              "name": "edit",
               "family": "MobiriseIcons",
               "active": true,
               "link": "index.html",
@@ -377,7 +377,7 @@
             "iconFont": {
               "class": "mbr-iconfont",
               "linkInNewWindow": false,
-              "name": "hot-cup",
+              "name": "users",
               "family": "MobiriseIcons",
               "active": true,
               "link": "index.html",
@@ -486,7 +486,7 @@
             "iconFont": {
               "class": "mbr-iconfont",
               "linkInNewWindow": false,
-              "name": "users",
+              "name": "alert",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
@@ -546,7 +546,11 @@
               "line-height": "72px"
             },
             ".heading": {
-              "background": "#dfd9ca"
+              "background": "#5f6f96"
+            },
+            ".form-title": {
+              "color": "#fffffd",
+              "font-size": "15px"
             }
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
@@ -556,13 +560,13 @@
           "_name": "form3",
           "_anchor": "form3-8",
           "_params": {
-            "formBg": "#dfd9ca",
+            "formBg": "#5f6f96",
             "paddingTop": 1,
             "paddingBottom": 1,
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
-            "bgColor": "#dfd9ca",
+            "bgColor": "#5f6f96",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
@@ -571,7 +575,7 @@
             "overlay": true,
             "overlayOpacity": 0.95,
             "overlayColor": "#fffffd",
-            "showHeading": true,
+            "showHeading": false,
             "showTitle": true,
             "showText": false,
             "formHeader": true,
@@ -606,9 +610,9 @@
               }
             }
           },
-          "header": "Please send us any questions or comments below.&nbsp;",
+          "header": "Contact Us<br>Please send us any questions or comments below.&nbsp;",
           "checkbox": "I agree to the terms",
-          "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send message</a>"
+          "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send message</a>"
         },
         {
           "_styles": {
