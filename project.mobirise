@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 16,
+    "uniqCompNum": 17,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/rrr-raiserestaurantrevenue-iconl-128x122.png",
     "noImageResize": "",
@@ -133,6 +133,71 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-4\" aria-expanded=\"false\">WHO ARE WE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-5\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-6\" aria-expanded=\"false\">HOW WE CAN HELP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form3-8\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_params": {
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": "3",
+            "paddingBottom": 2,
+            "slides": [
+              {
+                "active": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Easy to use",
+                "showText": false,
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe voluptas quam illo amet, esse veniam autem perspiciatis impedit in assumenda cupiditate est quaerat ipsam cumque!",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black btn-black-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "showImage": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1147.jpg"
+              },
+              {
+                "active": true,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Visual Editor",
+                "showText": false,
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, veniam, blanditiis. Amet nam quam, quas porro quia sequi, perspiciatis ex saepe perferendis repellendus ea tenetur.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black btn-black-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "showImage": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg"
+              },
+              {
+                "active": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "No coding and free!",
+                "showText": false,
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero odio facilis optio amet eum tenetur quos quam, autem culpa, illo, nemo itaque at placeat blanditiis.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black btn-black-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "showImage": true,
+                "image": "@PROJECT_PATH@/assets/images/01.jpg"
+              }
+            ],
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.95,
+            "overlayColor": "#5b5f6b",
+            "showBullets": true
+          },
+          "_anchor": "features1-g",
+          "articleLayout": false
         },
         {
           "form": {
@@ -296,7 +361,7 @@
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": false,
@@ -627,7 +692,7 @@
             "paddingBottom": 1,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -692,7 +757,7 @@
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "overlay": true,
