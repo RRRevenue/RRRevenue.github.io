@@ -520,7 +520,7 @@
             }
           },
           "title1": "Targeted Industry",
-          "text1": "We target your restaurant to increase foot traffic to boost your overall sales and potential long term customers.<br><br><br>",
+          "text1": "We target your restaurant to increase foot traffic to boost your overall sales and potential long term customers.<br><br>",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media2": {
             "iconFont": {
@@ -533,7 +533,7 @@
               "size": 40
             }
           },
-          "title2": "Never Feel Uncertain",
+          "title2": "Feel Less Uncertain",
           "text2": "We handle the uncertainty you face day in and day out of whether you can retain your current customer base or increase additional business consitently.&nbsp;",
           "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media3": {
@@ -571,10 +571,10 @@
               "font-size": "24px"
             },
             ".card-text": {
-              "font-size": "30px"
+              "font-size": "16px"
             },
             ".card-title": {
-              "font-size": "36px"
+              "font-size": "24px"
             }
           }
         },
