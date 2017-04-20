@@ -599,6 +599,9 @@ a:hover {
 #header5-4 .mbr-table-cell {
   vertical-align: middle;
 }
+#header5-4 .heading-text {
+  font-size: 30px;
+}
 #header5-5 .mbr-section-title,
 #header5-5 .mbr-section-subtitle {
   margin-bottom: 1rem;
@@ -611,9 +614,15 @@ a:hover {
 #header5-5 .mbr-table-cell {
   vertical-align: middle;
 }
+#header5-5 .heading-text {
+  font-size: 30px;
+}
 #features2-6 .mbr-iconfont {
   color: #455c97;
   border-color: #455c97;
+}
+#features2-6 .card-text {
+  font-size: 20px;
 }
 #subscribe1-l .form-control-label {
   color: undefined;
@@ -624,6 +633,12 @@ a:hover {
 }
 #features2-m .heading-text B {
   font-size: 24px;
+}
+#features2-m .card-text {
+  font-size: 30px;
+}
+#features2-m .card-title {
+  font-size: 36px;
 }
 #content5-n .mbr-section-title,
 #content5-n .mbr-section-subtitle {
@@ -657,6 +672,9 @@ a:hover {
 #form3-8 .form-title {
   color: #fffffd;
   font-size: 15px;
+}
+#form3-8 .form-title SPAN {
+  font-size: 24px;
 }
 #footer4-a p {
   color: #000;

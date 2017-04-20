@@ -213,6 +213,9 @@
             ".mbr-iconfont": {},
             ".mbr-table-cell": {
               "vertical-align": "middle"
+            },
+            ".heading-text": {
+              "font-size": "30px"
             }
           },
           "_tags": [
@@ -252,6 +255,9 @@
             ".mbr-iconfont": {},
             ".mbr-table-cell": {
               "vertical-align": "middle"
+            },
+            ".heading-text": {
+              "font-size": "30px"
             }
           },
           "_tags": [
@@ -295,6 +301,9 @@
             ".mbr-iconfont": {
               "color": "@primaryColor",
               "border-color": "@primaryColor"
+            },
+            ".card-text": {
+              "font-size": "20px"
             }
           },
           "_anchor": "features2-6",
@@ -341,7 +350,7 @@
             }
           },
           "title1": "",
-          "text1": "Create an effective, customized digital marketing plan or strategy",
+          "text1": "Create an effective, customized digital marketing plan or strategy<br><br><br>",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media2": {
             "iconFont": {
@@ -356,7 +365,7 @@
             }
           },
           "title2": "",
-          "text2": "Increase social media engagement<br><br><br>",
+          "text2": "Increase social media engagement<br><br><br><br><br>",
           "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media3": {
             "iconFont": {
@@ -371,7 +380,7 @@
             }
           },
           "title3": "",
-          "text3": "Create a unique selling point<br><br><br>",
+          "text3": "Create a unique selling point<br><br><br><br><br>",
           "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media4": {
             "iconFont": {
@@ -480,7 +489,7 @@
             }
           },
           "title1": "Targeted Industry",
-          "text1": "We target your restaurant to increase foot traffic to boost your overall sales and potential long term customers.<br><br>",
+          "text1": "We target your restaurant to increase foot traffic to boost your overall sales and potential long term customers.<br><br><br>",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media2": {
             "iconFont": {
@@ -529,6 +538,12 @@
             },
             ".heading-text B": {
               "font-size": "24px"
+            },
+            ".card-text": {
+              "font-size": "30px"
+            },
+            ".card-title": {
+              "font-size": "36px"
             }
           }
         },
@@ -595,6 +610,9 @@
             ".form-title": {
               "color": "#fffffd",
               "font-size": "15px"
+            },
+            ".form-title SPAN": {
+              "font-size": "24px"
             }
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
