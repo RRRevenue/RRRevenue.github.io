@@ -84,7 +84,7 @@ h6,
   background-color: #94a5d0 !important;
 }
 .bg-danger {
-  background-color: #2b4484 !important;
+  background-color: #1d3d8e !important;
 }
 .btn-primary {
   background-color: #455c97;
@@ -187,8 +187,8 @@ h6,
   border-color: #5f78b9 !important;
 }
 .btn-danger {
-  background-color: #2b4484;
-  border-color: #2b4484;
+  background-color: #1d3d8e;
+  border-color: #1d3d8e;
   color: #ffffff;
 }
 .btn-danger:hover,
@@ -197,14 +197,14 @@ h6,
 .btn-danger:active,
 .btn-danger.active {
   color: #ffffff;
-  background-color: #18264a;
-  border-color: #18264a;
+  background-color: #10224e;
+  border-color: #10224e;
 }
 .btn-danger.disabled,
 .btn-danger:disabled {
   color: #ffffff !important;
-  background-color: #18264a !important;
-  border-color: #18264a !important;
+  background-color: #10224e !important;
+  border-color: #10224e !important;
 }
 .btn-primary-outline {
   background: none;
@@ -308,8 +308,8 @@ h6,
 }
 .btn-danger-outline {
   background: none;
-  border-color: #121c37;
-  color: #121c37;
+  border-color: #0c1939;
+  color: #0c1939;
 }
 .btn-danger-outline:hover,
 .btn-danger-outline:focus,
@@ -317,14 +317,14 @@ h6,
 .btn-danger-outline:active,
 .btn-danger-outline.active {
   color: #ffffff;
-  background-color: #2b4484;
-  border-color: #2b4484;
+  background-color: #1d3d8e;
+  border-color: #1d3d8e;
 }
 .btn-danger-outline.disabled,
 .btn-danger-outline:disabled {
   color: #ffffff !important;
-  background-color: #2b4484 !important;
-  border-color: #2b4484 !important;
+  background-color: #1d3d8e !important;
+  border-color: #1d3d8e !important;
 }
 .text-primary {
   color: #455c97 !important;
@@ -339,7 +339,7 @@ h6,
   color: #94a5d0 !important;
 }
 .text-danger {
-  color: #2b4484 !important;
+  color: #1d3d8e !important;
 }
 .alert-success {
   background-color: #455c97;
@@ -351,7 +351,7 @@ h6,
   background-color: #94a5d0;
 }
 .alert-danger {
-  background-color: #2b4484;
+  background-color: #1d3d8e;
 }
 .mbr-company .list-group-item.active .list-group-text {
   color: #455c97;
@@ -393,7 +393,7 @@ h6,
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
-  color: #6280cc;
+  color: #4f77db;
 }
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
@@ -678,4 +678,7 @@ a:hover {
 }
 #footer4-a p {
   color: #000;
+}
+#footer4-a P {
+  color: #fffffd;
 }

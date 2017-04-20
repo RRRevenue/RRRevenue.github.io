@@ -11,7 +11,7 @@
         "successColor": "#455c97",
         "infoColor": "#94a5d0",
         "warningColor": "#94a5d0",
-        "dangerColor": "#2b4484",
+        "dangerColor": "#1d3d8e",
         "titleFont": "Oxygen",
         "subtitleFont": "Roboto",
         "textFont": "Raleway",
@@ -436,7 +436,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">Send</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>"
         },
         {
           "subtitle1": "Awesome",
@@ -680,6 +680,9 @@
           "_styles": {
             "p": {
               "color": "#000"
+            },
+            "P": {
+              "color": "#fffffd"
             }
           },
           "_tags": [
@@ -688,12 +691,12 @@
           "_name": "footer4",
           "_anchor": "footer4-a",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
