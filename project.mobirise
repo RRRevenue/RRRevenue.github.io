@@ -118,7 +118,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/rrr-raiserestaurantrevenue-202x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/rrr-raiserestaurantrevenue-main-208x128.png",
               "height": 128,
               "alt": "Raise Restuarant Revenue",
               "link": "index.html",
