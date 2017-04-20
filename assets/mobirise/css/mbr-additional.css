@@ -641,7 +641,8 @@ a:hover {
   border-color: #455c97;
 }
 #features2-m .heading-text B {
-  font-size: 24px;
+  font-size: 36px;
+  color: #bb412e;
 }
 #features2-m .card-text {
   font-size: 16px;
@@ -769,4 +770,145 @@ a:hover {
 }
 #header1-13 .mbr-table-cell {
   vertical-align: bottom;
+}
+#menu2-14 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu2-14 .navbar-toggler {
+  color: #000000;
+}
+#menu2-14 .close-icon::before,
+#menu2-14 .close-icon::after {
+  background-color: #000000;
+}
+#menu2-14 .link,
+#menu2-14 .dropdown-item {
+  color: #000000;
+  font-family: 'Libre Franklin', serif;
+}
+#menu2-14 .link {
+  font-size: 0.8125rem;
+}
+#menu2-14 .dropdown-item,
+#menu2-14 .nav-dropdown-sm .link {
+  font-size: 0.880rem;
+}
+#menu2-14 .link:hover,
+#menu2-14 .link:focus {
+  color: #455c97;
+}
+#menu2-14 .dropdown-item:hover::before,
+#menu2-14 .dropdown-item:focus::before {
+  background: #455c97;
+}
+#menu2-14 .dropdown-item:hover,
+#menu2-14 .dropdown-item:focus {
+  color: #000000;
+}
+#menu2-14 .link[aria-expanded="true"],
+#menu2-14 .dropdown-menu {
+  background: #ffffff;
+}
+#menu2-14 .nav-dropdown-sm .link:focus,
+#menu2-14 .nav-dropdown-sm .link:hover,
+#menu2-14 .nav-dropdown-sm .dropdown-item:focus,
+#menu2-14 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu2-14 .navbar,
+#menu2-14 .nav-dropdown-sm,
+#menu2-14 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu2-14 .nav-dropdown-sm .dropdown-menu {
+  background: #fff;
+}
+#menu2-14 .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#menu2-14 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu2-14 .bg-color.transparent.opened .link:hover,
+#menu2-14 .bg-color.transparent.opened .link:focus {
+  color: #455c97;
+}
+#menu2-14 .link[aria-expanded="true"],
+#menu2-14 .dropdown-item[aria-expanded="true"] {
+  color: #455c97!important;
+}
+#counters1-19 .count {
+  color: #74a3c7;
+}
+#counters1-19 .mbr-section-text {
+  color: #fffffd;
+}
+#counters1-19 .count B {
+  color: #fffffd;
+}
+#content3-1b .mbr-section-title,
+#content3-1b .mbr-section-subtitle {
+  text-align: center;
+}
+#features16-1a .mbr-iconfont {
+  background: #424242;
+  border-color: #424242;
+}
+#features16-1a .card-text {
+  text-align: left;
+}
+#content3-1c .mbr-section-title,
+#content3-1c .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-1h .mbr-section-title,
+#content3-1h .mbr-section-subtitle {
+  text-align: center;
+}
+#content2-1i H1 {
+  color: #000000;
+}
+#content2-1i H4 {
+  color: #000000;
+}
+#content2-1j H4 {
+  color: #000000;
+}
+#content2-1l H1 {
+  color: #000000;
+}
+#content2-1l H4 {
+  color: #000000;
+}
+#content2-1m H4 {
+  color: #000000;
+}
+#content3-1n .mbr-section-title,
+#content3-1n .mbr-section-subtitle {
+  text-align: center;
+}
+#footer4-15 p {
+  color: #000;
+}
+#footer4-15 P {
+  color: #fffffd;
+}
+#content3-18 .mbr-section-title,
+#content3-18 .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-18 H1 {
+  color: #fffffd;
+}
+#content3-18 B {
+  color: #fffffd;
+}
+#content3-18 P {
+  color: #fffffd;
+  font-size: 20px;
+}
+#counters1-17 .count {
+  color: #fffffd;
+}
+#counters1-17 .mbr-section-text {
+  color: #fffffd;
 }

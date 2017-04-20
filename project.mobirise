@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-04-19_0228",
-    "currentPage": "index.html",
+    "currentPage": "audit.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 40,
+    "uniqCompNum": 61,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/rrr-raiserestaurantrevenue-iconl-128x122.png",
     "noImageResize": "",
@@ -132,7 +132,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-z\" aria-expanded=\"false\">WHO ARE WE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-5\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features21-v\" aria-expanded=\"false\">HOW WE CAN HELP</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#form3-8\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CONTACT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"additionalservices..html\">Additional Services</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"7146610642\" aria-expanded=\"false\" target=\"_blank\">(714) 661-0642</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-z\" aria-expanded=\"false\">WHO ARE WE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-5\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features21-v\" aria-expanded=\"false\">HOW WE CAN HELP</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#form3-8\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CONTACT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"additionalservices..html\"><span class=\"mbri-website-theme mbr-iconfont mbr-iconfont-btn\"></span>Additional Services</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"7146610642\" aria-expanded=\"false\" target=\"_blank\">(714) 661-0642</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
         },
         {
           "_styles": {
@@ -488,7 +488,8 @@
               "border-color": "@primaryColor"
             },
             ".heading-text B": {
-              "font-size": "24px"
+              "font-size": "36px",
+              "color": "#bb412e"
             },
             ".card-text": {
               "font-size": "16px"
@@ -843,7 +844,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-z\" aria-expanded=\"false\">WHO ARE WE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-5\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features21-v\" aria-expanded=\"false\">HOW WE CAN HELP</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#form3-8\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CONTACT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"additionalservices..html\">Additional Services</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"7146610642\" aria-expanded=\"false\" target=\"_blank\">(714) 661-0642</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-z\" aria-expanded=\"false\">WHO ARE WE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-5\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features21-v\" aria-expanded=\"false\">HOW WE CAN HELP</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#form3-8\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CONTACT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"additionalservices..html\"><span class=\"mbri-website-theme mbr-iconfont mbr-iconfont-btn\"></span>Additional Services</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"7146610642\" aria-expanded=\"false\" target=\"_blank\">(714) 661-0642</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
         },
         {
           "_styles": {
@@ -981,6 +982,551 @@
           "title4": "Web Banners and Web Ads",
           "text4": "Web Banners, Web Ads, you see them all over the internet, but you can also place custom banners and ads within you website. Web Ads are digital formats that could compare to printed ads. Send us your ad requirements and we could create all of them for you.. Just call us, (714)661-0642 and will provvide you with a 2 day turnaorun.",
           "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        }
+      ]
+    },
+    "audit.html": {
+      "settings": {
+        "title": "Addtional Services",
+        "meta_descr": "web development, web design,CRM"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "font-family": "'Libre Franklin', serif"
+            },
+            ".link": {
+              "font-size": "0.8125rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.880rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#000000"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#455c97!important"
+            }
+          },
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu2",
+          "_anchor": "menu2-14",
+          "_params": {
+            "bgColor": "#fff",
+            "fontSize": 0.8125,
+            "imageSize": "5",
+            "fontName": {
+              "name": "Libre Franklin",
+              "css": "'Libre Franklin', serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/rrr-raiserestaurantrevenue-main-208x128.png",
+              "height": 128,
+              "alt": "Raise Restuarant Revenue",
+              "link": "index.html",
+              "title": "Raise Restuarant Revenue",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-z\" aria-expanded=\"false\">WHO ARE WE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-5\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features21-v\" aria-expanded=\"false\">HOW WE CAN HELP</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#form3-8\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CONTACT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"additionalservices..html\"><span class=\"mbri-website-theme mbr-iconfont mbr-iconfont-btn\"></span>Additional Services</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"7146610642\" aria-expanded=\"false\" target=\"_blank\">(714) 661-0642</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+        },
+        {
+          "_styles": {
+            ".count": {
+              "color": "#74a3c7"
+            },
+            ".mbr-section-text": {
+              "color": "#fffffd"
+            },
+            ".count B": {
+              "color": "#fffffd"
+            }
+          },
+          "title4": "Videos",
+          "subtitle1": "subtitle",
+          "subtitle2": "subtitle",
+          "subtitle3": "subtitle",
+          "subtitle4": "subtitle",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "counters1",
+          "_anchor": "counters1-19",
+          "_params": {
+            "countersColor": "#74a3c7",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "containerColor1": "#bb412e",
+            "containerColor2": "#bb412e",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/imacos/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01_1.jpg",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#fff",
+            "showTitles": true
+          },
+          "number1": "<b>0</b>",
+          "title1": "Twitter Feeds",
+          "number2": "<p><b>0</b></p>",
+          "title2": "Blog Site Postings",
+          "number3": "<b>3.5</b>",
+          "title3": "Yelp Rating"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-1b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "<b>Which Social Media Platform</b>",
+          "meta": "By <b>John Smith</b> posted July 20, 2016"
+        },
+        {
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "touch",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "subtitle1": "Awesome",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "responsive",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "subtitle2": "Awesome",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "setting",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "subtitle3": "Awesome",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "hot-cup",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "subtitle4": "Awesome",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features16",
+          "_anchor": "features16-1a",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "contentAlign": "center",
+            "iconsBgColor": "#424242",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "bgColor": "#fffffd",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.85,
+            "overlayColor": "#fffffd",
+            "showHeading": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "columns": "4",
+            "showFeaturesImages": false,
+            "showFeaturesTitles": false,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false
+          },
+          "title": "Always on your terms",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "number1": "<p>1</p>",
+          "title1": "What is Mobirise",
+          "text1": "Why are we using this social account?",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "number2": "<p>2</p>",
+          "title2": "What is Mobirise",
+          "text2": "Why do we want to use it?",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "number3": "<p>3</p>",
+          "title3": "What is Mobirise",
+          "text3": "What are our goals for this social media platform?",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "number4": "<p>4</p>",
+          "title4": "What is Mobirise",
+          "text4": "Are our target markets &nbsp;using it?&nbsp;",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_styles": {
+            ".mbr-iconfont": {
+              "background": "#424242",
+              "border-color": "#424242"
+            },
+            ".card-text": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-1c",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#bdb39a",
+            "showMeta": true
+          },
+          "title": "<b>Initial Observations</b>",
+          "meta": "By <b>Flor Campos</b>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>Amazing number of likes on Facebook and Instagram followers!&nbsp;</p><p>A lot that can be done and achieved with that amount of reach.</p><p>Sharing decent amount of content, however, the content isn't directly related to restaurant.&nbsp;</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-1h",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#bdb39a",
+            "showMeta": true
+          },
+          "title": "<b>Social Media Platform Observations</b>",
+          "meta": "By <b>Flor Campos</b>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<h1>Facebook</h1><h4>Observations:&nbsp;</h4><ul><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">Cover art is clean and simple</span></font></li><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">Profile photo/icon isn't clear on mobile device.</span></font></li><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">Posting frequently, however the content being posted is not directly related with restaurant </span></font></li><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">PTAT (people talking about this) score: 781; With the amounts of likes, the restaurant should be able to engage more of its followers</span></font></li><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">Average number of likes, comments, shares per post: 36</span></font></li><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">No posts by fans in the last month</span></font></li><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">Not asking engaging questions\n</span></font></li></ul>",
+          "_styles": {
+            "H1": {
+              "color": "#000000"
+            },
+            "H4": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<h4>Recommendations:</h4><ul><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">Get a version of your profile icon in a higher resolution to avoid blurriness </span></font></li><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">Post minimum of 1 time per day. Ideally at least 5 times a week. Don't forget weekends, the most engagement happens on the weekends, particularly Saturdays.</span></font></li><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">Times with highest engagement: 2-5PM\n</span></font></li><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">You should ask more questions for more engagement. There are two major advantages to pose questions to your fans. It activates your fans leading to greater visibility for your Page and at the same time providing you with answers to questions that may be crucial for your company's sales and marketing.\n</span></font></li></ul>",
+          "_styles": {
+            "H4": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "H1": {
+              "color": "#000000"
+            },
+            "H4": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "content2-1l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<h1>Instagram</h1><h1></h1><h4>Observations:&nbsp;</h4><ul><li><font color=\"#4a4a4a\" size=\"3\">Amazing number of likes! Over 27 thousand. </font></li><li><font color=\"#4a4a4a\" size=\"3\">Multiple posts that do not directly align with the restaurant and its purpose\no\t</font></li><li><font color=\"#4a4a4a\" size=\"3\">Some content posted alienates certain followers\no\t</font></li><li><font color=\"#4a4a4a\" size=\"3\">Not engaging with visitors via Geotags\n</font></li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "H4": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "content2-1m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<h4>Recommendations:</h4><ul><li><font color=\"#4a4a4a\" size=\"3\">Aim for minimum of 1 post per day </font></li><li><font color=\"#4a4a4a\" size=\"3\">Instagram is a great place to exhibit the delicious food the restaurant takes pride in </font></li><li><font color=\"#4a4a4a\" size=\"3\">Open up dialogue for conversation. Encourage followers to engage and/or ask questions\no\tEngage with customers through geotags. Ask about their experience, invite them back. Acknowledge.  \n</font></li></ul>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-1n",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#bdb39a",
+            "showMeta": false
+          },
+          "title": "<b>Summary of Recommendations</b>",
+          "meta": "By <b>Flor Campos</b>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "The frequency in Facebook and Instagram posting is there. However, it is not directly aligned with the restaurants purpose. By posting more about the restaurant, (i.e. food, offers, promotions, events) you can help your audience feel more connected. The number of followers and likes that the restaurant has offers great potential for reach and engagement. By better engaging your audience, it will provide them with a sense of a culture that they're a part of which will create a loyal follower base.&nbsp;<br>"
+        },
+        {
+          "_styles": {
+            "p": {
+              "color": "#000"
+            },
+            "P": {
+              "color": "#fffffd"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer4",
+          "_anchor": "footer4-15",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright 2017 Raise Restaurant Revenue. All Rights Reserved."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H1": {
+              "color": "#fffffd"
+            },
+            "B": {
+              "color": "#fffffd"
+            },
+            "P": {
+              "color": "#fffffd",
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-18",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": 3,
+            "bgColor": "#000000",
+            "showMeta": true
+          },
+          "title": "<b>Social Media Audit</b>",
+          "meta": "El Calamar<br>April 18, 2017"
+        },
+        {
+          "_styles": {
+            ".count": {
+              "color": "#fffffd"
+            },
+            ".mbr-section-text": {
+              "color": "#fffffd"
+            }
+          },
+          "title4": "Videos",
+          "subtitle1": "subtitle",
+          "subtitle2": "subtitle",
+          "subtitle3": "subtitle",
+          "subtitle4": "subtitle",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "counters1",
+          "_anchor": "counters1-17",
+          "_params": {
+            "countersColor": "#74a3c7",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "containerColor1": "#1f8068",
+            "containerColor2": "#1f8068",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/counters/01.jpg",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#fff",
+            "showTitles": true
+          },
+          "number1": "<b>40,456</b>",
+          "title1": "Facebook Likes",
+          "number2": "<p><b>27,600</b></p>",
+          "title2": "Instagram Followers",
+          "number3": "<b>35</b>",
+          "title3": "YouTube Subscribers"
         }
       ]
     }
