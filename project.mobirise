@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 20,
+    "uniqCompNum": 21,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/rrr-raiserestaurantrevenue-iconl-128x122.png",
     "noImageResize": "",
@@ -203,47 +203,6 @@
               "color": "#000000"
             }
           }
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "margin-bottom": "1rem",
-              "color": "#ffffff"
-            },
-            ".mbr-iconfont": {},
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-f",
-          "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "containerColor1": "#94a5d0",
-            "containerColor2": "#2b4484",
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.2,
-            "overlayColor": "#000000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "<b>How It Works</b>",
-          "text": "Need a Mission Statement here. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>"
         },
         {
           "_styles": {
@@ -467,6 +426,137 @@
             ".mbr-iconfont": {
               "color": "@primaryColor",
               "border-color": "@primaryColor"
+            }
+          }
+        },
+        {
+          "header": "For business",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "credit-card",
+              "link": "https://mobirise.com",
+              "color": "#222",
+              "family": "MobiriseIcons"
+            }
+          },
+          "subtitle1": "Awesome",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "edit",
+              "link": "https://mobirise.com",
+              "color": "#222",
+              "family": "MobiriseIcons"
+            }
+          },
+          "subtitle2": "Awesome",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "pages",
+              "link": "https://mobirise.com",
+              "color": "#222",
+              "family": "MobiriseIcons"
+            }
+          },
+          "subtitle3": "Awesome",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "shoping-cart",
+              "link": "https://mobirise.com",
+              "color": "#222",
+              "family": "MobiriseIcons"
+            }
+          },
+          "subtitle4": "Awesome",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "cash",
+              "link": "https://mobirise.com",
+              "color": "#222",
+              "family": "MobiriseIcons"
+            }
+          },
+          "subtitle5": "Awesome",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "unlock",
+              "link": "https://mobirise.com",
+              "color": "#222",
+              "family": "MobiriseIcons"
+            }
+          },
+          "subtitle6": "Awesome",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features19",
+          "_anchor": "features19-k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "iconsBgColor": "@primaryColor",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "bgColor": "#4a5f97",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.95,
+            "overlayColor": "#fffffd",
+            "showHeading": true,
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "columns": 2,
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false
+          },
+          "title": "<b>Features</b>",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "title1": "Responsive",
+          "text1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam voluptatum non dolor reprehenderit aliquid excepturi, veritatis magnam iste sunt culpa provident suscipit ea. Deleniti, animi?",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "title2": "Web-fonts",
+          "text2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste sit quaerat rem vitae odio error consequatur, cum voluptatem eum explicabo vero, impedit quo, quae veniam.",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "title3": "Unlimited Sites",
+          "text3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum reprehenderit omnis quis quaerat mollitia consequuntur fugiat nemo fuga, culpa, consequatur perferendis ipsam, aut, quam cum.",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "title4": "Trendy Website Blocks",
+          "text4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio quaerat corporis similique esse eius velit, officia consequuntur sequi voluptatum perspiciatis. Officiis quae beatae praesentium iure?",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "title5": "Host Anywhere",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo error voluptatibus possimus nobis quos minima pariatur aperiam, sunt commodi incidunt nam iusto ipsa distinctio ipsam!",
+          "button5": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "title6": "Bootstrap 4",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut officia reiciendis id enim hic harum voluptatem repellat incidunt soluta cum quia facere sed, ea illo.",
+          "button6": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_styles": {
+            ".mbr-iconfont": {
+              "background": "@primaryColor",
+              "border-color": "@primaryColor"
+            },
+            ".heading-title B": {
+              "text-align": "right",
+              "color": "#fffffd"
             }
           }
         },
