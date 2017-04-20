@@ -370,8 +370,9 @@
               "name": "mobirise",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "color": "#efefef"
+              "link": "index.html",
+              "color": "#efefef",
+              "newWindow": false
             }
           },
           "title1": "Effective Marketing Plan",
@@ -383,8 +384,9 @@
               "name": "responsive",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "color": "#cccccc"
+              "link": "index.html",
+              "color": "#cccccc",
+              "newWindow": false
             }
           },
           "title2": "Increasing Social Media Engagement",
@@ -396,8 +398,9 @@
               "name": "devices",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "color": "#cccccc"
+              "link": "index.html",
+              "color": "#cccccc",
+              "newWindow": false
             }
           },
           "title3": "Create Unique Selling Points",
@@ -409,8 +412,9 @@
               "name": "touch-swipe",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "color": "#cccccc"
+              "link": "index.html",
+              "color": "#cccccc",
+              "newWindow": false
             }
           },
           "title4": "Atract New Customers",
