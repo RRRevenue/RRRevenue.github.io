@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-04-19_0228",
-    "currentPage": "additionalservices..html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -340,8 +340,8 @@
           "_name": "features21",
           "_styles": {
             ".card .mbr-iconfont": {
-              "background": "#2b4484",
-              "border-color": "#2b4484"
+              "background": "#667bb1",
+              "border-color": "#667bb1"
             },
             ".mbr-table-cell": {
               "vertical-align": "middle"
@@ -351,7 +351,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "iconsBgColor": "#2b4484",
+            "iconsBgColor": "#667bb1",
             "containerColor1": "#f0f1f2",
             "containerColor2": "#fffefd",
             "parallax": false,
