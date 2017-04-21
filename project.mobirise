@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-04-19_0228",
-    "currentPage": "audit.html",
+    "currentPage": "001004.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 72,
+    "uniqCompNum": 74,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/rrr-raiserestaurantrevenue-iconl-128x122.png",
     "noImageResize": "",
@@ -2160,6 +2160,46 @@
           "title": "Initial Observations",
           "text": "<b>Observations: Instagram<br></b><br>Amazing number of likes! Over 27,000.<br>Multiple posts that do not directly align with the restaurant and its purpose&nbsp;<br>Some content posted alienates certain followers&nbsp;<br>Not engaging with visitors via Geotags<br><br><b>Recommendations</b>:<br><br>Aim for minimum of 1 post per day<br>Instagram is a great place to exhibit the delicious food the restaurant takes pride in<br>Open up dialogue for conversation. Encourage followers to engage and/or ask questions o\tEngage with customers through geotags. Ask about their experience, invite them back. Acknowledge.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#fff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-21",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/content7.jpg",
+            "bgColor": "#2d2d2d",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#2d2d2d",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Recommendations",
+          "text": "Aim for minimum of 1 post per day<br>Instagram is a great place to exhibit the delicious food the restaurant takes pride in<br>Open up dialogue for conversation. Encourage followers to engage and/or ask questions o\tEngage with customers through geotags. Ask about their experience, invite them back. Acknowledge.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Watch Demo</a>"
         }
       ]
     }

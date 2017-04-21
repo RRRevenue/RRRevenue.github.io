@@ -1096,3 +1096,15 @@ a:hover {
 #content5-1y .heading-text {
   text-align: left;
 }
+#content7-21 .mbr-section-title,
+#content7-21 .mbr-section-subtitle {
+  margin-bottom: 1rem;
+  color: #fff;
+}
+#content7-21 .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#content7-21 .mbr-table-cell {
+  vertical-align: middle;
+}
