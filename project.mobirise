@@ -668,6 +668,10 @@
           "_styles": {
             ".form": {
               "background": "#fafbfc"
+            },
+            ".form-title": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           }
         },

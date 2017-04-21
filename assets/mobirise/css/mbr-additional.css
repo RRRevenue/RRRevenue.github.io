@@ -11,6 +11,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -672,6 +673,9 @@ a:hover {
 }
 #form1-24 .form {
   background: #fafbfc;
+}
+#form1-24 .form-title {
+  font-family: 'Raleway', sans-serif;
 }
 #footer4-a p {
   color: #000;
