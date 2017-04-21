@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-04-19_0228",
-    "currentPage": " 001004.html",
+    "currentPage": "001004.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -1584,9 +1584,10 @@
         }
       ]
     },
-    " 001004.html": {
+    "001004.html": {
       "settings": {
-        "title": "El Calamara"
+        "title": "El Calamara",
+        "meta_descr": ""
       },
       "components": [
         {
