@@ -2182,7 +2182,7 @@
             "paddingBottom": 4,
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/content7.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-10-2000x1333.jpg",
             "bgColor": "#2d2d2d",
             "bgColorRadio": false,
             "bgVideo": {
