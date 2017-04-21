@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-04-19_0228",
-    "currentPage": "additionalservices..html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -622,8 +622,8 @@
           "_params": {
             "paddingTop": 4,
             "paddingBottom": "0",
-            "containerColor1": "#5f6f96",
-            "containerColor2": "#5f6f96",
+            "containerColor1": "#455c97",
+            "containerColor2": "#455c97",
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
@@ -683,7 +683,7 @@
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
-            "bgColor": "#5f6f96",
+            "bgColor": "#455c97",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
@@ -692,7 +692,7 @@
             "overlay": true,
             "overlayOpacity": 0.95,
             "overlayColor": "#fffffd",
-            "showHeading": false,
+            "showHeading": true,
             "showTitle": true,
             "showText": false,
             "formHeader": true,
