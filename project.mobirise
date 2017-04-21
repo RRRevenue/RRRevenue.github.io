@@ -1719,6 +1719,9 @@
             ".mbr-iconfont": {},
             ".mbr-table-cell": {
               "vertical-align": "middle"
+            },
+            ".heading-title B": {
+              "font-size": "46px"
             }
           },
           "subtitle1": "Awesome",
@@ -1734,25 +1737,25 @@
             "containerColor1": "#631c70",
             "containerColor2": "#3ca8c7",
             "parallax": false,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
-            "bgColorRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-9-2000x1333.jpg",
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#616161",
+            "overlayOpacity": "0.6",
+            "overlayColor": "#000000",
             "contentAlign": "left",
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
-          "title": "Gradient Header",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-lg btn-empty\" href=\"https://mobirise.com\">Or view demo</a>",
+          "title": "<b>Social Media Audit</b>",
+          "text": "Business Name: El Calamar<br>Date: 4/18/2017<br>Audit by: Flor Campos<br>Audit No: 001004",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download for Windows</a>",
           "media1": {
             "iconFont": {
               "active": true,
@@ -1842,11 +1845,11 @@
             "showTitles": true
           },
           "number1": "1470",
-          "title1": "Pictures",
+          "title1": "Facebook Likes",
           "number2": "258",
-          "title2": "Mobiles",
-          "number3": "369",
-          "title3": "Desktops"
+          "title2": "Instagram Followers",
+          "number3": "35",
+          "title3": "YouTube Subscribers"
         }
       ]
     }

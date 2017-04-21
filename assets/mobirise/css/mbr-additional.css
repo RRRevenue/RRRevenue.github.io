@@ -1017,6 +1017,9 @@ a:hover {
 #header2-1s .mbr-table-cell {
   vertical-align: middle;
 }
+#header2-1s .heading-title B {
+  font-size: 46px;
+}
 #counters1-1t .count {
   color: #74a3c7;
 }
