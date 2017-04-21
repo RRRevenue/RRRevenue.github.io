@@ -907,6 +907,11 @@
             },
             ".mbr-table-cell": {
               "vertical-align": "bottom"
+            },
+            ".heading-text": {
+              "font-size": "18px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_anchor": "header1-13",

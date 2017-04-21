@@ -709,6 +709,7 @@ a:hover {
 #footer4-a P {
   color: #fffffd;
 }
+
 #menu2-11 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -786,6 +787,10 @@ a:hover {
 }
 #header1-13 .mbr-table-cell {
   vertical-align: bottom;
+}
+#header1-13 .heading-text {
+  font-size: 18px;
+  font-family: 'Raleway', sans-serif;
 }
 #menu2-14 .hide-buttons .nav-btn {
   display: none !important;
