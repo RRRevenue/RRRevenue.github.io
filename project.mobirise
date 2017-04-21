@@ -1893,7 +1893,7 @@
             "showTitles": true
           },
           "number1": "3",
-          "title1": "Yelp Rating",
+          "title1": "Yelp Rating&nbsp;<br>(Actual Rating 3.5)",
           "number2": "0",
           "title2": "Twitter Feeds",
           "number3": "0",
