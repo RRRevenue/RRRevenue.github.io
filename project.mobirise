@@ -602,50 +602,6 @@
         },
         {
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "margin-bottom": "1rem",
-              "color": "#ffffff"
-            },
-            ".mbr-iconfont": {},
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
-            },
-            ".heading-title": {
-              "font-size": "48px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-n",
-          "_params": {
-            "paddingTop": 4,
-            "paddingBottom": "0",
-            "containerColor1": "#455c97",
-            "containerColor2": "#455c97",
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.2,
-            "overlayColor": "#000000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false
-          },
-          "title": "<b>Contact Us</b>",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>"
-        },
-        {
-          "_styles": {
             ".card": {
               "background-color": "transparent",
               "box-shadow": "none",
@@ -683,7 +639,7 @@
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
-            "bgColor": "#455c97",
+            "bgColor": "#5f6f96",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
@@ -729,7 +685,7 @@
           },
           "header": "<span style=\"line-height: 1.7em; background-color: transparent;\">Please send us any questions or comments below.&nbsp;</span><br>",
           "checkbox": "I agree to the terms",
-          "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send message</a>"
+          "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>Send message</a>"
         },
         {
           "_styles": {
@@ -1232,6 +1188,15 @@
             "Theme"
           ],
           "_name": "features16",
+          "_styles": {
+            ".mbr-iconfont": {
+              "background": "#424242",
+              "border-color": "#424242"
+            },
+            ".card-text": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "features16-1a",
           "_params": {
             "paddingTop": "0",
@@ -1278,16 +1243,7 @@
           "number4": "<p>4</p>",
           "title4": "What is Mobirise",
           "text4": "Are our target markets &nbsp;using it?&nbsp;",
-          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "_styles": {
-            ".mbr-iconfont": {
-              "background": "#424242",
-              "border-color": "#424242"
-            },
-            ".card-text": {
-              "text-align": "left"
-            }
-          }
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
         },
         {
           "_styles": {
@@ -1353,13 +1309,6 @@
             "Theme"
           ],
           "_name": "content2",
-          "_anchor": "content2-1i",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "text": "<h1>Facebook</h1><h4>Observations:&nbsp;</h4><ul><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">Cover art is clean and simple</span></font></li><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">Profile photo/icon isn't clear on mobile device.</span></font></li><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">Posting frequently, however the content being posted is not directly related with restaurant </span></font></li><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">PTAT (people talking about this) score: 781; With the amounts of likes, the restaurant should be able to engage more of its followers</span></font></li><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">Average number of likes, comments, shares per post: 36</span></font></li><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">No posts by fans in the last month</span></font></li><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">Not asking engaging questions\n</span></font></li></ul>",
           "_styles": {
             "H1": {
               "color": "#000000"
@@ -1367,25 +1316,32 @@
             "H4": {
               "color": "#000000"
             }
-          }
+          },
+          "_anchor": "content2-1i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<h1>Facebook</h1><h4>Observations:&nbsp;</h4><ul><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">Cover art is clean and simple</span></font></li><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">Profile photo/icon isn't clear on mobile device.</span></font></li><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">Posting frequently, however the content being posted is not directly related with restaurant </span></font></li><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">PTAT (people talking about this) score: 781; With the amounts of likes, the restaurant should be able to engage more of its followers</span></font></li><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">Average number of likes, comments, shares per post: 36</span></font></li><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">No posts by fans in the last month</span></font></li><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">Not asking engaging questions\n</span></font></li></ul>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content2",
+          "_styles": {
+            "H4": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "content2-1j",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<h4>Recommendations:</h4><ul><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">Get a version of your profile icon in a higher resolution to avoid blurriness </span></font></li><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">Post minimum of 1 time per day. Ideally at least 5 times a week. Don't forget weekends, the most engagement happens on the weekends, particularly Saturdays.</span></font></li><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">Times with highest engagement: 2-5PM\n</span></font></li><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">You should ask more questions for more engagement. There are two major advantages to pose questions to your fans. It activates your fans leading to greater visibility for your Page and at the same time providing you with answers to questions that may be crucial for your company's sales and marketing.\n</span></font></li></ul>",
-          "_styles": {
-            "H4": {
-              "color": "#000000"
-            }
-          }
+          "text": "<h4>Recommendations:</h4><ul><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">Get a version of your profile icon in a higher resolution to avoid blurriness </span></font></li><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">Post minimum of 1 time per day. Ideally at least 5 times a week. Don't forget weekends, the most engagement happens on the weekends, particularly Saturdays.</span></font></li><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">Times with highest engagement: 2-5PM\n</span></font></li><li><font color=\"#4a4a4a\" face=\"Raleway, sans-serif\" size=\"3\"><span style=\"line-height: 27.1875px;\">You should ask more questions for more engagement. There are two major advantages to pose questions to your fans. It activates your fans leading to greater visibility for your Page and at the same time providing you with answers to questions that may be crucial for your company's sales and marketing.\n</span></font></li></ul>"
         },
         {
           "_tags": [
@@ -1495,6 +1451,15 @@
             "Theme"
           ],
           "_name": "header4",
+          "_styles": {
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-text": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "header4-1p",
           "_params": {
             "parallax": false,
@@ -1517,16 +1482,7 @@
           },
           "title": "Social Media Audit",
           "text": "Business Name: El Calamar<br>Date: 4/18/2017<br>Audit By: Flor Campos",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-md btn-white\" href=\"https://mobirise.com\">Download for Mac</a>",
-          "_styles": {
-            ".mbr-iconfont": {},
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
-            },
-            ".heading-text": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-md btn-white\" href=\"https://mobirise.com\">Download for Mac</a>"
         },
         {
           "_styles": {
@@ -1978,6 +1934,18 @@
             "Theme"
           ],
           "_name": "features18",
+          "_styles": {
+            ".card .mbr-iconfont": {
+              "color": "#94a5d0",
+              "border-color": "#94a5d0"
+            },
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            "P": {
+              "color": "#74a3c7"
+            }
+          },
           "_anchor": "features18-1v",
           "_params": {
             "paddingTop": 2,
@@ -2025,19 +1993,7 @@
           "number3": "<p>3</p>",
           "text3": "What are our goals for this social media platform?",
           "number4": "<p>4</p>",
-          "text4": "Are our target markets using it?",
-          "_styles": {
-            ".card .mbr-iconfont": {
-              "color": "#94a5d0",
-              "border-color": "#94a5d0"
-            },
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
-            },
-            "P": {
-              "color": "#74a3c7"
-            }
-          }
+          "text4": "Are our target markets using it?"
         },
         {
           "_styles": {

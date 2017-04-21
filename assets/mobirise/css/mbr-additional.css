@@ -666,21 +666,6 @@ a:hover {
   font-family: 'Roboto', sans-serif;
   font-size: 30px;
 }
-#content5-n .mbr-section-title,
-#content5-n .mbr-section-subtitle {
-  margin-bottom: 1rem;
-  color: #ffffff;
-}
-#content5-n .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
-}
-#content5-n .mbr-table-cell {
-  vertical-align: middle;
-}
-#content5-n .heading-title {
-  font-size: 48px;
-}
 #form3-8 .card {
   background-color: transparent;
   box-shadow: none;
@@ -925,10 +910,6 @@ a:hover {
 #footer4-15 P {
   color: #fffffd;
 }
-#header4-1p .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
-}
 #header4-1p .mbr-table-cell {
   vertical-align: middle;
 }
@@ -1031,10 +1012,6 @@ a:hover {
 #header2-1s .mbr-section-subtitle {
   color: #ffffff;
 }
-#header2-1s .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
-}
 #header2-1s .mbr-table-cell {
   vertical-align: middle;
 }
@@ -1065,10 +1042,6 @@ a:hover {
   margin-bottom: 1rem;
   color: #ffffff;
 }
-#content5-1w .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
-}
 #content5-1w .mbr-table-cell {
   vertical-align: middle;
 }
@@ -1083,10 +1056,6 @@ a:hover {
 #content5-1x .mbr-section-subtitle {
   margin-bottom: 1rem;
   color: #ffffff;
-}
-#content5-1x .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
 }
 #content5-1x .mbr-table-cell {
   vertical-align: middle;
@@ -1103,10 +1072,6 @@ a:hover {
   margin-bottom: 1rem;
   color: #ffffff;
 }
-#content5-1y .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
-}
 #content5-1y .mbr-table-cell {
   vertical-align: middle;
 }
@@ -1121,10 +1086,6 @@ a:hover {
 #content7-21 .mbr-section-subtitle {
   margin-bottom: 1rem;
   color: #fff;
-}
-#content7-21 .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
 }
 #content7-21 .mbr-table-cell {
   vertical-align: middle;
