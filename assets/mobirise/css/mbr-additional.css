@@ -935,3 +935,88 @@ a:hover {
 #counters1-17 .mbr-section-text {
   color: #616161;
 }
+#menu2-1q .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu2-1q .navbar-toggler {
+  color: #000000;
+}
+#menu2-1q .close-icon::before,
+#menu2-1q .close-icon::after {
+  background-color: #000000;
+}
+#menu2-1q .link,
+#menu2-1q .dropdown-item {
+  color: #000000;
+  font-family: 'Libre Franklin', serif;
+}
+#menu2-1q .link {
+  font-size: 0.8125rem;
+}
+#menu2-1q .dropdown-item,
+#menu2-1q .nav-dropdown-sm .link {
+  font-size: 0.880rem;
+}
+#menu2-1q .link:hover,
+#menu2-1q .link:focus {
+  color: #455c97;
+}
+#menu2-1q .dropdown-item:hover::before,
+#menu2-1q .dropdown-item:focus::before {
+  background: #455c97;
+}
+#menu2-1q .dropdown-item:hover,
+#menu2-1q .dropdown-item:focus {
+  color: #000000;
+}
+#menu2-1q .link[aria-expanded="true"],
+#menu2-1q .dropdown-menu {
+  background: #ffffff;
+}
+#menu2-1q .nav-dropdown-sm .link:focus,
+#menu2-1q .nav-dropdown-sm .link:hover,
+#menu2-1q .nav-dropdown-sm .dropdown-item:focus,
+#menu2-1q .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu2-1q .navbar,
+#menu2-1q .nav-dropdown-sm,
+#menu2-1q .nav-dropdown-sm .link[aria-expanded="true"],
+#menu2-1q .nav-dropdown-sm .dropdown-menu {
+  background: #fff;
+}
+#menu2-1q .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#menu2-1q .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu2-1q .bg-color.transparent.opened .link:hover,
+#menu2-1q .bg-color.transparent.opened .link:focus {
+  color: #455c97;
+}
+#menu2-1q .link[aria-expanded="true"],
+#menu2-1q .dropdown-item[aria-expanded="true"] {
+  color: #455c97!important;
+}
+#footer4-1r p {
+  color: #000;
+}
+#footer4-1r P {
+  color: #fffffd;
+}
+#header2-1s .mbr-section-title,
+#header2-1s .mbr-section-subtitle {
+  color: #ffffff;
+}
+#header2-1s .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#header2-1s .mbr-table-cell {
+  vertical-align: middle;
+}
+#counters1-1t .count {
+  color: #74a3c7;
+}
