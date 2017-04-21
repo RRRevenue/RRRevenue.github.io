@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-04-19_0228",
-    "currentPage": "001004.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -496,6 +496,20 @@
             },
             ".card-title": {
               "font-size": "24px"
+            },
+            ".heading-text SPAN": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".heading-text": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "13px"
+            },
+            ".btn": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "30px"
             }
           },
           "_anchor": "features2-m",
@@ -518,17 +532,17 @@
             "overlayColor": "#fffffd",
             "showHeading": true,
             "showTitle": true,
-            "showText": true,
-            "showButtons": false,
+            "showText": false,
+            "showButtons": true,
             "columns": "2",
             "showFeaturesImages": true,
             "showFeaturesTitles": true,
             "showFeaturesTexts": true,
             "showFeaturesButtons": false
           },
-          "title": "<b>How Do We Raise Your Revenue?</b>",
-          "text": "<br><b>Increased Sales!</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "title": "<b>How Do We Raise Your Revenue?<br></b><b><br></b>",
+          "text": "<br><i class=\"fa fa-line-chart\" aria-hidden=\"true\"><br></i>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#form3-8\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 239, 239);\"></span>Increased Sales!</a>",
           "media1": {
             "iconFont": {
               "active": true,
@@ -980,7 +994,7 @@
             }
           },
           "title4": "Web Banners and Web Ads",
-          "text4": "Web Banners, Web Ads, you see them all over the internet, but you can also place custom banners and ads within you website. Web Ads are digital formats that could compare to printed ads. Send us your ad requirements and we could create all of them for you.. Just call us, (714)661-0642 and will provvide you with a 2 day turnaorun.",
+          "text4": "Web Banners, Web Ads, you see them all over the internet, but you can also place custom banners and ads within you website to promote your business. Web Ads are digital formats that could compare to printed ads. Send us your ad requirements and we could create all of them for you!. Just call us, (714)661-0642 and will provide you with a 2 day turnaround quote.",
           "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
         }
       ]
