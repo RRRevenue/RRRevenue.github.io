@@ -2170,6 +2170,12 @@
             ".mbr-iconfont": {},
             ".mbr-table-cell": {
               "vertical-align": "middle"
+            },
+            ".heading-text": {
+              "color": "#fffffd"
+            },
+            ".heading-title": {
+              "color": "#fffffd"
             }
           },
           "_tags": [
