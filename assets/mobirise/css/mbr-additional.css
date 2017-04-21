@@ -11,7 +11,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -641,6 +640,11 @@ a:hover {
 #subscribe1-l .form-control-label {
   color: undefined;
 }
+#subscribe1-l .mbr-section-text {
+  color: #000000;
+  font-size: 11px;
+  text-align: center;
+}
 #features2-m .mbr-iconfont {
   color: #455c97;
   border-color: #455c97;
@@ -666,33 +670,15 @@ a:hover {
   font-family: 'Roboto', sans-serif;
   font-size: 30px;
 }
-#form3-8 .card {
-  background-color: transparent;
-  box-shadow: none;
-  border: none;
-}
-#form3-8 .card-img a {
-  color: #616161;
-  border-color: #616161;
-  border-width: 2px;
-  line-height: 72px;
-}
-#form3-8 .heading {
-  background: #5f6f96;
-}
-#form3-8 .form-title {
-  color: #fffffd;
-  font-size: 15px;
-}
-#form3-8 .form-title SPAN {
-  font-size: 16px;
-  font-family: 'Raleway', sans-serif;
+#form1-24 .form {
+  background: #fafbfc;
 }
 #footer4-a p {
   color: #000;
 }
 #footer4-a P {
   color: #fffffd;
+  font-size: 12px;
 }
 
 #menu2-11 .hide-buttons .nav-btn {
@@ -765,6 +751,7 @@ a:hover {
 }
 #footer4-12 P {
   color: #fffffd;
+  font-size: 12px;
 }
 #header1-13 .mbr-iconfont {
   color: #fff;
@@ -909,6 +896,7 @@ a:hover {
 }
 #footer4-15 P {
   color: #fffffd;
+  font-size: 12px;
 }
 #header4-1p .mbr-table-cell {
   vertical-align: middle;
@@ -1007,6 +995,7 @@ a:hover {
 }
 #footer4-1r P {
   color: #fffffd;
+  font-size: 12px;
 }
 #header2-1s .mbr-section-title,
 #header2-1s .mbr-section-subtitle {

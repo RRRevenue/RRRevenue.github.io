@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 75,
+    "uniqCompNum": 77,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/rrr-raiserestaurantrevenue-iconl-128x122.png",
     "noImageResize": "",
@@ -440,7 +440,12 @@
           ],
           "_name": "subscribe1",
           "_styles": {
-            ".form-control-label": {}
+            ".form-control-label": {},
+            ".mbr-section-text": {
+              "color": "#000000",
+              "font-size": "11px",
+              "text-align": "center"
+            }
           },
           "_anchor": "subscribe1-l",
           "_params": {
@@ -455,10 +460,10 @@
             "overlayOpacity": "0.1",
             "overlayColor": "#f6f7f8",
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "title": "Join Our<b> Newsletter</b>",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+          "text": "We do not share your information with any other companies",
           "form": {
             "action": "nickfsanchez@gmail.com",
             "alerts": {
@@ -601,45 +606,19 @@
           "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
         },
         {
-          "_styles": {
-            ".card": {
-              "background-color": "transparent",
-              "box-shadow": "none",
-              "border": "none"
-            },
-            ".card-img a": {
-              "color": "#616161",
-              "border-color": "#616161",
-              "border-width": "2px",
-              "line-height": "72px"
-            },
-            ".heading": {
-              "background": "#5f6f96"
-            },
-            ".form-title": {
-              "color": "#fffffd",
-              "font-size": "15px"
-            },
-            ".form-title SPAN": {
-              "font-size": "16px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "form3",
-          "_anchor": "form3-8",
+          "_name": "form1",
+          "_anchor": "form1-24",
           "_params": {
-            "formBg": "#5f6f96",
-            "paddingTop": "0",
+            "paddingTop": 1,
             "paddingBottom": 1,
+            "formBg": "#fafbfc",
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
-            "bgColor": "#5f6f96",
+            "bgColor": "#fffffd",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
@@ -651,11 +630,13 @@
             "showHeading": true,
             "showTitle": true,
             "showText": false,
-            "formHeader": true,
-            "showCheckbox": false
+            "showButtons": false,
+            "formHeader": true
           },
-          "title": "Contact Us",
+          "title": "<b>Let Us Know</b>",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get started</a>",
+          "header": "It only takes a few minutes to let us know how we can be of any service to you.<br>If you prefer, give us a call at <b>714.661.0642</b> (hablamos españ<span style=\"color: inherit; font-size: 1rem; line-height: 1.7em;\">ol).</span>",
           "form": {
             "action": "nickfsanchez@gmail.com",
             "alerts": {
@@ -683,9 +664,12 @@
               }
             }
           },
-          "header": "<span style=\"line-height: 1.7em; background-color: transparent;\">Please send us any questions or comments below.&nbsp;</span><br>",
-          "checkbox": "I agree to the terms",
-          "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>Send message</a>"
+          "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>SEND</a>",
+          "_styles": {
+            ".form": {
+              "background": "#fafbfc"
+            }
+          }
         },
         {
           "_styles": {
@@ -693,7 +677,8 @@
               "color": "#000"
             },
             "P": {
-              "color": "#fffffd"
+              "color": "#fffffd",
+              "font-size": "12px"
             }
           },
           "_tags": [
@@ -825,7 +810,8 @@
               "color": "#000"
             },
             "P": {
-              "color": "#fffffd"
+              "color": "#fffffd",
+              "font-size": "12px"
             }
           },
           "_tags": [
@@ -1424,7 +1410,8 @@
               "color": "#000"
             },
             "P": {
-              "color": "#fffffd"
+              "color": "#fffffd",
+              "font-size": "12px"
             }
           },
           "_tags": [
@@ -1670,7 +1657,8 @@
               "color": "#000"
             },
             "P": {
-              "color": "#fffffd"
+              "color": "#fffffd",
+              "font-size": "12px"
             }
           },
           "_tags": [
