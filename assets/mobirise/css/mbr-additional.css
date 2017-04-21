@@ -1018,8 +1018,14 @@ a:hover {
   vertical-align: middle;
 }
 #header2-1s .heading-title B {
-  font-size: 46px;
+  font-size: 32px;
+}
+#header2-1s .heading-text {
+  font-size: 14px;
 }
 #counters1-1t .count {
+  color: #74a3c7;
+}
+#counters1-1u .count {
   color: #74a3c7;
 }

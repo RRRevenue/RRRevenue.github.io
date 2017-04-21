@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-04-19_0228",
-    "currentPage": "page3.html",
+    "currentPage": "audit.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 66,
+    "uniqCompNum": 67,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/rrr-raiserestaurantrevenue-iconl-128x122.png",
     "noImageResize": "",
@@ -1135,7 +1135,7 @@
           "title1": "Twitter Feeds",
           "number2": "<p><b>0</b></p>",
           "title2": "Blog Site Postings",
-          "number3": "<b>3.5</b>",
+          "number3": "<font color=\"#fffffd\"><b>4</b></font>",
           "title3": "Yelp Rating"
         },
         {
@@ -1575,17 +1575,19 @@
             "overlayColor": "#fff",
             "showTitles": true
           },
-          "number1": "<b>40,456</b>",
+          "number1": "<b>40456</b>",
           "title1": "Facebook Likes",
-          "number2": "<p><b>27,600</b></p>",
+          "number2": "<p><b>27600</b></p>",
           "title2": "Instagram Followers",
           "number3": "<b>35</b>",
           "title3": "YouTube Subscribers"
         }
       ]
     },
-    "page3.html": {
-      "settings": {},
+    " 001004.html": {
+      "settings": {
+        "title": "El Calamara"
+      },
       "components": [
         {
           "_styles": {
@@ -1721,7 +1723,10 @@
               "vertical-align": "middle"
             },
             ".heading-title B": {
-              "font-size": "46px"
+              "font-size": "32px"
+            },
+            ".heading-text": {
+              "font-size": "14px"
             }
           },
           "subtitle1": "Awesome",
@@ -1844,11 +1849,53 @@
             "overlayColor": "#fff",
             "showTitles": true
           },
-          "number1": "1470",
+          "number1": "40456",
           "title1": "Facebook Likes",
-          "number2": "258",
+          "number2": "27600",
           "title2": "Instagram Followers",
           "number3": "35",
+          "title3": "YouTube Subscribers"
+        },
+        {
+          "_styles": {
+            ".count": {
+              "color": "#74a3c7"
+            }
+          },
+          "title4": "Videos",
+          "subtitle1": "subtitle",
+          "subtitle2": "subtitle",
+          "subtitle3": "subtitle",
+          "subtitle4": "subtitle",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "counters1",
+          "_anchor": "counters1-1u",
+          "_params": {
+            "countersColor": "#74a3c7",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "containerColor1": "#f7f7f7",
+            "containerColor2": "#f0f0f0",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/imacos/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01_1.jpg",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#fff",
+            "showTitles": true
+          },
+          "number1": "40456",
+          "title1": "Twitter",
+          "number2": "0",
+          "title2": "Instagram Followers",
+          "number3": "0",
           "title3": "YouTube Subscribers"
         }
       ]
