@@ -1000,6 +1000,25 @@ a:hover {
 #menu2-1q .dropdown-item[aria-expanded="true"] {
   color: #455c97!important;
 }
+#content5-1z .mbr-section-title,
+#content5-1z .mbr-section-subtitle {
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+#content5-1z .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#content5-1z .mbr-table-cell {
+  vertical-align: middle;
+}
+#content5-1z .heading-title {
+  text-align: left;
+  font-size: 48px;
+}
+#content5-1z .heading-text {
+  text-align: left;
+}
 #footer4-1r p {
   color: #000;
 }
@@ -1028,4 +1047,71 @@ a:hover {
 }
 #counters1-1u .count {
   color: #74a3c7;
+}
+#features18-1v .card .mbr-iconfont {
+  color: #94a5d0;
+  border-color: #94a5d0;
+}
+#features18-1v .mbr-table-cell {
+  vertical-align: middle;
+}
+#features18-1v P {
+  color: #74a3c7;
+}
+#content5-1w .mbr-section-title,
+#content5-1w .mbr-section-subtitle {
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+#content5-1w .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#content5-1w .mbr-table-cell {
+  vertical-align: middle;
+}
+#content5-1w .heading-title {
+  text-align: left;
+  font-size: 48px;
+}
+#content5-1w .heading-text {
+  text-align: left;
+}
+#content5-1x .mbr-section-title,
+#content5-1x .mbr-section-subtitle {
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+#content5-1x .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#content5-1x .mbr-table-cell {
+  vertical-align: middle;
+}
+#content5-1x .heading-title {
+  text-align: left;
+  font-size: 48px;
+}
+#content5-1x .heading-text {
+  text-align: left;
+}
+#content5-1y .mbr-section-title,
+#content5-1y .mbr-section-subtitle {
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+#content5-1y .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#content5-1y .mbr-table-cell {
+  vertical-align: middle;
+}
+#content5-1y .heading-title {
+  text-align: left;
+  font-size: 48px;
+}
+#content5-1y .heading-text {
+  text-align: left;
 }

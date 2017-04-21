@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-04-19_0228",
-    "currentPage": "audit.html",
+    "currentPage": " 001004.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 67,
+    "uniqCompNum": 72,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/rrr-raiserestaurantrevenue-iconl-128x122.png",
     "noImageResize": "",
@@ -1687,6 +1687,54 @@
         },
         {
           "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-title": {
+              "text-align": "left",
+              "font-size": "48px"
+            },
+            ".heading-text": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1z",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "containerColor1": "#2b4484",
+            "containerColor2": "#446494",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/imacos/Library/Application%20Support/Mobirise.com/Mobirise/projectData/02.jpg",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#000000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Recommendations",
+          "text": "The frequency in Facebook and Instagram posting is there. However, it is not directly aligned with the restaurant's purpose. <br><br>By posting more about the restaurant, (e.g., food, offers, promotions, events) you can help your audience feel more connected. <br><br>The number of followers and likes that the restaurant has offers great potential for reach and engagement. <br><br>By better engaging your audience, it will provide them with a sense of a culture that they're a part of which will create a loyal follower base.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>"
+        },
+        {
+          "_styles": {
             "p": {
               "color": "#000"
             },
@@ -1891,12 +1939,274 @@
             "overlayColor": "#fff",
             "showTitles": true
           },
-          "number1": "40456",
-          "title1": "Twitter",
+          "number1": "3",
+          "title1": "Yelp Rating",
           "number2": "0",
-          "title2": "Instagram Followers",
+          "title2": "Twitter Feeds",
           "number3": "0",
-          "title3": "YouTube Subscribers"
+          "title3": "Blogger Followers"
+        },
+        {
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "mobirise",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title1": "What is Mobirise",
+          "subtitle1": "Awesome",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "responsive",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title2": "What is Mobirise",
+          "subtitle2": "Awesome",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "devices",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title3": "What is Mobirise",
+          "subtitle3": "Awesome",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "touch-swipe",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features18",
+          "_anchor": "features18-1v",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "iconsBgColor": "#94a5d0",
+            "containerColor1": "#000000",
+            "containerColor2": "#3e4757",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#616161",
+            "bgicon": true,
+            "showHeading": true,
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "columns": "4"
+          },
+          "bgicon": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "like",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": " 001004.html",
+              "newWindow": false
+            }
+          },
+          "title": "Which Social Media Platform",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-lg btn-empty\" href=\"https://mobirise.com\">Or view demo</a>",
+          "number1": "<p>1</p>",
+          "text1": "Why are we using this social account?&nbsp;",
+          "number2": "<p>2</p>",
+          "text2": "Why do want to use it?",
+          "number3": "<p>3</p>",
+          "text3": "What are our goals for this social media platform?",
+          "number4": "<p>4</p>",
+          "text4": "Are our target markets using it?",
+          "_styles": {
+            ".card .mbr-iconfont": {
+              "color": "#94a5d0",
+              "border-color": "#94a5d0"
+            },
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            "P": {
+              "color": "#74a3c7"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-title": {
+              "text-align": "left",
+              "font-size": "48px"
+            },
+            ".heading-text": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1w",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "containerColor1": "#19b68f",
+            "containerColor2": "#446494",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#000000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Initial Observations",
+          "text": "Amazing number of likes on Facebook and Instagram followers! <br>A lot that can be done and achieved with that amount of reach.<br>Sharing decent amount of content, however, the content isn't directly related to restaurant.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-title": {
+              "text-align": "left",
+              "font-size": "48px"
+            },
+            ".heading-text": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1x",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "containerColor1": "#000000",
+            "containerColor2": "#446494",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/imacos/Library/Application%20Support/Mobirise.com/Mobirise/projectData/02.jpg",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#000000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Social Media Platform Observations",
+          "text": "<b>Observations: Facebook<br></b><br>Cover art is clean and simple<br>Profile photo/icon isn't clear on mobile device.<br>Posting frequently, however the content being posted is not directly related with restaurant<br>PTAT (people talking about this) score: 781; With the amounts of likes, the restaurant should be able to engage more of its followers<br>Average number of likes, comments, shares per post: 36<br>No posts by fans in the last month<br>Not asking engaging questions<br><br>Recommendations:<br><br>Get a version of your profile icon in a higher resolution to avoid blurriness<br>Post minimum of 1 time per day. Ideally at least 5 times a week. Don't forget weekends, the most engagement happens on the weekends, particularly Saturdays.<br>Times with highest engagement: 2-5PM<br>You should ask more questions for more engagement. There are two major advantages to pose questions to your fans. It activates your fans leading to greater visibility for your Page and at the same time providing you with answers to questions that may be crucial for your company's sales and marketing.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-title": {
+              "text-align": "left",
+              "font-size": "48px"
+            },
+            ".heading-text": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1y",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "containerColor1": "#19b68f",
+            "containerColor2": "#446494",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/imacos/Library/Application%20Support/Mobirise.com/Mobirise/projectData/02.jpg",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#000000",
+            "contentAlign": "center",
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Initial Observations",
+          "text": "<b>Observations: Instagram<br></b><br>Amazing number of likes! Over 27,000.<br>Multiple posts that do not directly align with the restaurant and its purpose&nbsp;<br>Some content posted alienates certain followers&nbsp;<br>Not engaging with visitors via Geotags<br><br><b>Recommendations</b>:<br><br>Aim for minimum of 1 post per day<br>Instagram is a great place to exhibit the delicious food the restaurant takes pride in<br>Open up dialogue for conversation. Encourage followers to engage and/or ask questions o\tEngage with customers through geotags. Ask about their experience, invite them back. Acknowledge.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>"
         }
       ]
     }
