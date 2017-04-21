@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 61,
+    "uniqCompNum": 62,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/rrr-raiserestaurantrevenue-iconl-128x122.png",
     "noImageResize": "",
@@ -987,8 +987,11 @@
     },
     "audit.html": {
       "settings": {
-        "title": "Addtional Services",
-        "meta_descr": "web development, web design,CRM"
+        "title": "Audit El Calamar",
+        "meta_descr": "web development, web design,CRM",
+        "html_before": "",
+        "footer_custom": "",
+        "header_custom": ""
       },
       "components": [
         {
@@ -1279,8 +1282,8 @@
           "_name": "content3",
           "_anchor": "content3-1c",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgColor": "#bdb39a",
             "showMeta": false
           },
@@ -1315,8 +1318,8 @@
           "_name": "content3",
           "_anchor": "content3-1h",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgColor": "#bdb39a",
             "showMeta": false
           },
@@ -1416,8 +1419,8 @@
           "_name": "content3",
           "_anchor": "content3-1n",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgColor": "#bdb39a",
             "showMeta": false
           },
@@ -1435,7 +1438,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "The frequency in Facebook and Instagram posting is there. However, it is not directly aligned with the restaurants purpose. By posting more about the restaurant, (i.e. food, offers, promotions, events) you can help your audience feel more connected. The number of followers and likes that the restaurant has offers great potential for reach and engagement. By better engaging your audience, it will provide them with a sense of a culture that they're a part of which will create a loyal follower base.&nbsp;<br>"
+          "text": "<p>The frequency in Facebook and Instagram posting is there. However, it is not directly aligned with the restaurants purpose. By posting more about the restaurant, (i.e. food, offers, promotions, events) you can help your audience feel more connected. The number of followers and likes that the restaurant has offers great potential for reach and engagement. By better engaging your audience, it will provide them with a sense of a culture that they're a part of which will create a loyal follower base.&nbsp;</p>"
         },
         {
           "_styles": {
@@ -1466,6 +1469,44 @@
           "text": "Copyright 2017 Raise Restaurant Revenue. All Rights Reserved."
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-1p",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-9-2000x1333.jpg",
+            "bgColor": "#bdb39a",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#264a54",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Social Media Audit",
+          "text": "Business Name: El Calamar<br>Date: 4/18/2017<br>Audit By: Flor Campos",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-md btn-white\" href=\"https://mobirise.com\">Download for Mac</a>",
+          "_styles": {
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-text": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -1488,8 +1529,8 @@
           "_name": "content3",
           "_anchor": "content3-18",
           "_params": {
-            "paddingTop": "7",
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgColor": "#000000",
             "showMeta": true
           },
@@ -1499,10 +1540,10 @@
         {
           "_styles": {
             ".count": {
-              "color": "#fffffd"
+              "color": "#000000"
             },
             ".mbr-section-text": {
-              "color": "#fffffd"
+              "color": "#616161"
             }
           },
           "title4": "Videos",
@@ -1516,11 +1557,11 @@
           "_name": "counters1",
           "_anchor": "counters1-17",
           "_params": {
-            "countersColor": "#74a3c7",
+            "countersColor": "#000000",
             "paddingTop": 1,
             "paddingBottom": 1,
-            "containerColor1": "#1f8068",
-            "containerColor2": "#1f8068",
+            "containerColor1": "#fffcf6",
+            "containerColor2": "#fffcf6",
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/counters/01.jpg",

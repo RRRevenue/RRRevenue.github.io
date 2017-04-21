@@ -904,6 +904,16 @@ a:hover {
 #footer4-15 P {
   color: #fffffd;
 }
+#header4-1p .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#header4-1p .mbr-table-cell {
+  vertical-align: middle;
+}
+#header4-1p .heading-text {
+  text-align: left;
+}
 #content3-18 .mbr-section-title,
 #content3-18 .mbr-section-subtitle {
   text-align: center;
@@ -920,8 +930,8 @@ a:hover {
   font-size: 14px;
 }
 #counters1-17 .count {
-  color: #fffffd;
+  color: #000000;
 }
 #counters1-17 .mbr-section-text {
-  color: #fffffd;
+  color: #616161;
 }
