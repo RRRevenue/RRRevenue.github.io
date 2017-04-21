@@ -545,12 +545,14 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#form3-8\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 239, 239);\"></span>Increased Sales!</a>",
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont",
+              "linkInNewWindow": false,
               "name": "touch",
-              "link": "https://mobirise.com",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "index.html",
               "size": 40,
-              "family": "MobiriseIcons"
+              "newWindow": false
             }
           },
           "title1": "Targeted Industry",
@@ -563,8 +565,9 @@
               "name": "alert",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 40
+              "link": "index.html",
+              "size": 40,
+              "newWindow": false
             }
           },
           "title2": "Feel Less Uncertain",
