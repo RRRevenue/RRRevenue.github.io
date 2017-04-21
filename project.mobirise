@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-04-19_0228",
-    "currentPage": "001004.html",
+    "currentPage": "audit.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -740,7 +740,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright 2017 Raise Restaurant Revenue. All Rights Reserved."
+          "text": "<i class=\"fa fa-copyright\" aria-hidden=\"true\"></i>&nbsp;2017 Raise Restaurant Revenue. All Rights Reserved."
         }
       ]
     },
@@ -872,7 +872,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright 2017 Raise Restaurant Revenue. All Rights Reserved."
+          "text": "<i class=\"fa fa-copyright\" aria-hidden=\"true\"></i>&nbsp;2017 Raise Restaurant Revenue. All Rights Reserved."
         },
         {
           "subtitle1": "Awesome",
@@ -1466,7 +1466,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright 2017 Raise Restaurant Revenue. All Rights Reserved."
+          "text": "<i class=\"fa fa-copyright\" aria-hidden=\"true\"></i>&nbsp;2017 Raise Restaurant Revenue. All Rights Reserved."
         },
         {
           "_tags": [
@@ -1712,7 +1712,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright 2017 Raise Restaurant Revenue. All Rights Reserved."
+          "text": "<i class=\"fa fa-copyright\" aria-hidden=\"true\"></i>&nbsp;2017 Raise Restaurant Revenue. All Rights Reserved."
         },
         {
           "_styles": {
