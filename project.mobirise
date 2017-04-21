@@ -1688,54 +1688,6 @@
         },
         {
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "margin-bottom": "1rem",
-              "color": "#ffffff"
-            },
-            ".mbr-iconfont": {},
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
-            },
-            ".heading-title": {
-              "text-align": "left",
-              "font-size": "36px"
-            },
-            ".heading-text": {
-              "text-align": "left"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-1z",
-          "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "containerColor1": "#2b4484",
-            "containerColor2": "#446494",
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "file:///Users/imacos/Library/Application%20Support/Mobirise.com/Mobirise/projectData/02.jpg",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.2,
-            "overlayColor": "#000000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "<b>Recommendations</b>",
-          "text": "The frequency in Facebook and Instagram posting is there. However, it is not directly aligned with the restaurant's purpose. <br>By posting more about the restaurant, (e.g., food, offers, promotions, events) you can help your audience feel more connected. <br>The number of followers and likes that the restaurant has offers great potential for reach and engagement. <br>By better engaging your audience, it will provide them with a sense of a culture that they're a part of which will create a loyal follower base.&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>"
-        },
-        {
-          "_styles": {
             "p": {
               "color": "#000"
             },

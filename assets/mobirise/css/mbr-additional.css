@@ -1000,25 +1000,6 @@ a:hover {
 #menu2-1q .dropdown-item[aria-expanded="true"] {
   color: #455c97!important;
 }
-#content5-1z .mbr-section-title,
-#content5-1z .mbr-section-subtitle {
-  margin-bottom: 1rem;
-  color: #ffffff;
-}
-#content5-1z .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
-}
-#content5-1z .mbr-table-cell {
-  vertical-align: middle;
-}
-#content5-1z .heading-title {
-  text-align: left;
-  font-size: 36px;
-}
-#content5-1z .heading-text {
-  text-align: left;
-}
 #footer4-1r p {
   color: #000;
 }
